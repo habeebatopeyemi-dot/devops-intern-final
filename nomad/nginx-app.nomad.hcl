@@ -1,6 +1,6 @@
 variable "image_repo" {
   type    = string
-  default = "ghcr.io/YOUR_GITHUB_USERNAME/devops-intern-final"
+  default = "ghcr.io/habeebatopeyemi-dot/devops-intern-final"
 }
 
 variable "image_tag" {
